@@ -38,6 +38,7 @@ step = 0
 u_new = u
 v_new = v
 
+#TODO
 for k in range(0,T,delta_t):
   step = step + 1
   for j in range(2,n+1):
